@@ -1,18 +1,54 @@
-# CODSOFT
 # CODSOFT Web Development Internship
 
-This repository contains the projects completed during my Web Development Internship at CODSOFT.
+This repository contains the projects I completed during my **CodSoft Web Development Internship**.
 
 ## Projects
 
-1. Portfolio Website
-2. Landing Page
-3. Calculator
+### 1. Portfolio Website
+A personal portfolio website to showcase skills, projects, and contact information.
 
-## Technologies Used
+**Technologies Used**
 - HTML
 - CSS
 - JavaScript
 
-## Author
-Shivam Gupta
+**Project Folder**
+```
+Portfolio/
+```
+
+---
+
+### 2. Landing Page
+A responsive landing page built using HTML and CSS.
+
+**Technologies Used**
+- HTML
+- CSS
+
+**Project Folder**
+```
+Landing-page/
+```
+
+---
+
+### 3. Calculator
+A simple calculator that performs basic arithmetic operations.
+
+**Technologies Used**
+- HTML
+- CSS
+- JavaScript
+
+**Project Folder**
+```
+Calculator/
+```
+
+---
+
+
+**Shivam**
+
+GitHub: https://github.com/redlabel18
